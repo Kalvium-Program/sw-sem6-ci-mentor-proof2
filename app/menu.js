@@ -1,7 +1,7 @@
 const menu = [
   { id: 1, dish: 'Masala Dosa', price: 40 },
   { id: 2, dish: 'Veg Biryani', price: 70 },
-  { id: 3, dish: 'Filter Coffee', price: 15 },
+  { id: 3, dish: 'Filter Coffee', price: 0 },
 ];
 
 function totalFor(order) {
